@@ -1,0 +1,16 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster_contextsimplemode.xml
+Search = stance="103030"
+Replace = skillbar-8="103030"
+
+Search = skillbar-5="103110"
+Replace = skillbar-8="103110"
+
+Search = stance="103040"
+Replace = skillbar-5="103040"
+
+Search = skillbar-8="103170"
+Replace = stance="103170"
+Search = skillbar-8="103171"
+Replace = stance="103171"
+
+Description = Blade Swarm + Rally on V, Starstrike on Z, and Spirit Vortex on Tab - Simple Mode

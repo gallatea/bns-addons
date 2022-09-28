@@ -1,0 +1,10 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster.xml
+
+Search = <result context-1="103320" control-mode="bns" />
+Replace = <result skillbar-3="103320" control-mode="bns" />
+Search = <result context-1="103321" control-mode="bns" />
+Replace = <result skillbar-3="103321" control-mode="bns" />
+Search = <result control-mode="bns" skillbar-3="103081" />
+Replace = <!-- <result control-mode="bns" skillbar-3="103081" /> -->
+
+Description = Cyclone on 3 - Normal Mode

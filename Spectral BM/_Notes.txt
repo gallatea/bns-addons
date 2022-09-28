@@ -1,0 +1,16 @@
+Main thread:
+https://www.bnsbuddy.com/threads/spectral-bm-a-few-addons.1191/
+
+- Addon #19 stopped working after the Astromancer patch. I don't know if someone found out a way to mod that.
+
+- Addon #20 already includes #02. Remove #02 first if you're gonna use it, and then apply only #20 instead.
+
+- There are 2 addons that move F to LMB. Both work.
+
+- The numbered addons were made by me (Galla).
+
+- Credits to Teravisor for "bm3spec_swordfall_to_LMB" and "BM3spec_Cyclone_to_C"
+https://www.bnsbuddy.com/threads/spectral-bm-a-few-addons.1191/post-6502
+
+- Credits to Whity for the V removal mod.
+https://www.bnsbuddy.com/threads/removes-v-spirit-vortex-for-3rd-spec-bm.1199/

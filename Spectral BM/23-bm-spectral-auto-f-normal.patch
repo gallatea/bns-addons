@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster.xml
+Search = <result context-3="103210" control-mode="bns" />
+Replace = <result context-3="103210" context-ui-effect="key-change" control-mode="bns" key-status="unpress" />
+Description = Automatically uses Swordfall (F) off cd - Normal Mode

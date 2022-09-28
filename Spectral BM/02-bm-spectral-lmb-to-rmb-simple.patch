@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster_contextsimplemode.xml
+Search = <result context-2="103210" control-mode="bns" />
+Replace = <result context-2="103210" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="103310" /> <result context-2="103310" control-mode="classic" /> <result context-2="103310" control-mode="bns" />
+Description = LMB to RMB on Simple Mode

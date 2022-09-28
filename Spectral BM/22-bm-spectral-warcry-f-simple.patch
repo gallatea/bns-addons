@@ -1,0 +1,6 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster_contextsimplemode.xml
+
+Search = <result context-2="103480" control-mode="bns" />
+Replace = <result context-3="103480" control-mode="bns" />
+
+Description = War Cry to F - Simple Mode

@@ -1,0 +1,6 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster.xml
+Search = stance="103040"
+Replace = skillbar-5="103040"
+Search = skillbar-5="103110"
+Replace = stance="103110"
+Description = Swaps Starstrike (Tab) with Rally (Z) on Normal Mode

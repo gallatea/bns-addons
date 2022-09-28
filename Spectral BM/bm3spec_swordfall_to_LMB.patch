@@ -1,0 +1,23 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster.xml
+Search = <condition skill="103310" />
+Replace = <!--condition skill="103310" /-->
+Search = <result context-1="103310" control-mode="classic" />
+Replace = <!--result context-1="103310" control-mode="classic" /-->
+Search = <result context-1="103310" control-mode="bns" />
+Replace = <!--result context-1="103310" control-mode="bns" /-->
+
+Search = <condition skill="103210" />
+Replace = <condition skill="103210" />
+Search = <result context-3="103210" control-mode="classic" />
+Replace = <result context-1="103210" control-mode="classic" />
+Search = <result context-3="103210" control-mode="bns" />
+Replace = <result context-1="103210" control-mode="bns" />
+
+Search = <condition skill="103212" />
+Replace = <condition skill="103212" />
+Search = <result context-3="103212" control-mode="classic" />
+Replace = <result context-1="103212" control-mode="classic" />
+Search = <result context-3="103212" control-mode="bns" />
+Replace = <result context-1="103212" control-mode="bns" />
+
+Description = Swordfall to LMB (Made by Teravisor)

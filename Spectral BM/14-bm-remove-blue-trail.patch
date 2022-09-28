@@ -1,0 +1,44 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="ribbon-particle-ref-basic" value="00010354.BladeMaster_SoulBlade_Trail" />
+Replace = <option name="ribbon-particle-ref-basic" value="" />
+
+Search = <option name="ribbon-particle-ref-blade-master-job-style-advanced-3" value="00060548.BM_G3_SoulBlade_Trail" />
+Replace = <option name="ribbon-particle-ref-blade-master-job-style-advanced-3" value="" />
+
+Search = <option name="spawn-show-bluesky-1" value="00007911.Phantom-sword-spawn-show-blue-1" />
+Replace = <option name="spawn-show-bluesky-1" value="" />
+
+Search = <option name="spawn-show-bluesky-2" value="00007911.Phantom-sword-spawn-show-blue-2" />
+Replace = <option name="spawn-show-bluesky-2" value="" />
+
+Search = <option name="spawn-show-bluesky-3" value="00007911.Phantom-sword-spawn-show-blue-3" />
+Replace = <option name="spawn-show-bluesky-3" value="" />
+
+Search = <option name="spawn-show-bluesky-4" value="00007911.Phantom-sword-spawn-show-blue-4" />
+Replace = <option name="spawn-show-bluesky-4" value="" />
+
+Search = <option name="spawn-show-bluesky-5" value="00007911.Phantom-sword-spawn-show-blue-5" />
+Replace = <option name="spawn-show-bluesky-5" value="" />
+
+Search = <option name="spawn-show-bluesky-6" value="00007911.Phantom-sword-spawn-show-blue-6" />
+Replace = <option name="spawn-show-bluesky-6" value="" />
+
+Search = <option name="idle-bluesky-1" value="AA_A_Phantom_Sword_idle_01" />
+Replace = <option name="idle-bluesky-1" value="" />
+
+Search = <option name="idle-bluesky-2" value="AA_A_Phantom_Sword_idle_02" />
+Replace = <option name="idle-bluesky-2" value="" />
+
+Search = <option name="idle-bluesky-3" value="AA_A_Phantom_Sword_idle_03" />
+Replace = <option name="idle-bluesky-3" value="" />
+
+Search = <option name="idle-bluesky-4" value="AA_A_Phantom_Sword_idle_04" />
+Replace = <option name="idle-bluesky-4" value="" />
+
+Search = <option name="idle-bluesky-5" value="AA_A_Phantom_Sword_idle_05" />
+Replace = <option name="idle-bluesky-5" value="" />
+
+Search = <option name="idle-bluesky-6" value="AA_A_Phantom_Sword_idle_06" />
+Replace = <option name="idle-bluesky-6" value="" />
+
+Description = Removes blue effects on soul blades

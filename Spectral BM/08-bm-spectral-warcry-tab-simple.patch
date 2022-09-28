@@ -1,0 +1,6 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster_contextsimplemode.xml
+Search = <condition skill="103040" />
+Replace = <condition skill="103480" /> <result stance="103480" control-mode="classic" /> <result stance="103480" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="103040" />
+Search = <result context-2="103480" control-mode="bns" />
+Replace = <result stance="103480" control-mode="bns" />
+Description = War Cry to Tab on Simple Mode

@@ -1,0 +1,8 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster_contextsimplemode.xml
+
+Search = <result context-1="103320" control-mode="bns" />
+Replace = <result context-3="103320" control-mode="bns" />
+Search = <result context-1="103321" control-mode="bns" />
+Replace = <result context-3="103321" control-mode="bns" />
+
+Description = Cyclone on F - Simple Mode

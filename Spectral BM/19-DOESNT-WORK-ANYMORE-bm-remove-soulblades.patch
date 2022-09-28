@@ -1,0 +1,4 @@
+FileName = config[bit].dat.files\\system.config2.xml
+Search = <option name="use-phantom-sword2" value="true" />
+Replace = <option name="use-phantom-sword2" value="false" />
+Description = Disables Soul Blades

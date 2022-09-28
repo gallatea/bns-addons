@@ -1,0 +1,6 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+
+Search = <option name="ribbon-particle-ref-blade-master-job-style-advanced-3" value="00060548.BM_G3_SoulBlade_Trail" />
+Replace = <option name="ribbon-particle-ref-blade-master-job-style-advanced-3" value="00010354.BladeMaster_SoulBlade_Trail" />
+
+Description = Black Soul Blade Trails instead of Blue

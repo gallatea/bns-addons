@@ -1,0 +1,10 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster_contextsimplemode.xml
+Search = stance="103030"
+Replace = skillbar-8="103030"
+Search = stance="103040"
+Replace = skillbar-8="103040"
+Search = skillbar-8="103170"
+Replace = stance="103170"
+Search = skillbar-8="103171"
+Replace = stance="103171"
+Description = Swaps Tab and V skills on Simple Mode

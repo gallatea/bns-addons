@@ -1,0 +1,10 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster.xml
+Search = <result context-2="103493" control-mode="classic" />
+Replace = <!-- <result context-2="103493" control-mode="classic" /> -->
+Search = <result context-2="103493" control-mode="bns" />
+Replace = <!-- <result context-2="103493" control-mode="bns" /> -->
+Search = <result context-2="103513" control-mode="classic" />
+Replace = <!-- <result context-2="103513" control-mode="classic" /> -->
+Search = <result context-2="103513" control-mode="bns" />
+Replace = <!-- <result context-2="103513" control-mode="bns" /> -->
+Description = Removes the 4th hit of Falling Star/Awakened Falling Star on Normal Mode

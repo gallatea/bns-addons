@@ -1,0 +1,6 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster_contextsimplemode.xml
+Search = <result context-3="103290" control-mode="classic" />
+Replace = <result skillbar-1="103290" control-mode="classic" />
+Search = <result context-3="103290" control-mode="bns" />
+Replace = <result skillbar-1="103290" control-mode="bns" />
+Description = HM Block on 1 - Simple Mode

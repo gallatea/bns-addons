@@ -1,0 +1,16 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster.xml
+Search = <result context-1="103320" control-mode="classic" />
+Replace = <result skillbar-7="103320" control-mode="classic" />
+Search = <result context-1="103320" control-mode="bns" />
+Replace = <result skillbar-7="103320" control-mode="bns" />
+Search = <result context-1="103321" control-mode="classic" />
+Replace = <result skillbar-7="103321" control-mode="classic" />
+Search = <result context-1="103321" control-mode="bns" />
+Replace = <result skillbar-7="103321" control-mode="bns" />
+Search = <condition skill="103160" />
+Replace = <!--condition skill="103160" /-->
+Search = <result control-mode="classic" skillbar-7="103160" />
+Replace = <!--result control-mode="classic" skillbar-7="103160" /-->
+Search = <result control-mode="bns" skillbar-7="103160" />
+Replace = <!--result control-mode="bns" skillbar-7="103160" /-->
+Description = Cyclone to C (made by Teravisor)

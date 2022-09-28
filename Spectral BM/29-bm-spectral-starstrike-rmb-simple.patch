@@ -1,0 +1,9 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster_contextsimplemode.xml
+
+Search = <result cmd-key-down="103020" cmd-key-left="103000" cmd-key-right="103010" context-1="103310" context-2="103230" control-mode="bns" skillbar-1="103060" skillbar-2="103070" skillbar-3="103081" skillbar-4="103091" skillbar-5="103110" skillbar-6="103130" skillbar-7="103160" skillbar-8="103171" stance="103040" />
+Replace = <result cmd-key-down="103020" cmd-key-left="103000" cmd-key-right="103010" context-1="103310" context-2="103230" control-mode="bns" skillbar-1="103060" skillbar-2="103070" skillbar-3="103081" skillbar-4="103091" skillbar-5="103110" skillbar-6="103130" skillbar-7="103160" skillbar-8="103171" />
+
+Search = <result control-mode="bns" stance="103040" />
+Replace = <result control-mode="bns" context-2="103040" />
+
+Description = Starstrike on RMB - Simple Mode
