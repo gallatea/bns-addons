@@ -1,0 +1,75 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+
+Search = <option name="restoration-move-block" value="2.000000" />
+Replace = <option name="restoration-move-block" value="0.100000" />
+Search = <option name="restoration-end-show" value="00010628.SelfRevival_End" />
+Replace = <option name="restoration-end-show" value="00007910.help_restoration_end" />
+
+Search = <option name="input-papering-check-2-low-penalty-duration" value="3.000000" />
+Replace = <option name="input-papering-check-2-low-penalty-duration" value="1.000000" />
+Search = <option name="input-papering-check-2-midium-penalty-duration" value="3.000000" />
+Replace = <option name="input-papering-check-2-midium-penalty-duration" value="3.000000" />
+Search = <option name="input-papering-check-2-high-penalty-duration" value="30.000000" />
+Replace = <option name="input-papering-check-2-high-penalty-duration" value="1.000000" />
+Search = <option name="input-papering-check-low-penalty-duration" value="60.000000" />
+Replace = <option name="input-papering-check-low-penalty-duration" value="1.000000" />
+Search = <option name="input-papering-check-midium-penalty-duration" value="60.000000" />
+Replace = <option name="input-papering-check-midium-penalty-duration" value="1.000000" />
+Search = <option name="input-papering-check-high-penalty-duration" value="300.000000" />
+Replace = <option name="input-papering-check-high-penalty-duration" value="1.000000" />
+
+Search = <option name="show-field-zone" value="n" />
+Replace = <option name="show-field-zone" value="y" />
+Search = <option name="show-classic-field-zone" value="n" />
+Replace = <option name="show-classic-field-zone" value="y" />
+Search = <option name="show-faction-battle-field-zone" value="n" />
+Replace = <option name="show-faction-battle-field-zone" value="y" />
+Search = <option name="show-jackpot-boss-zone" value="n" />
+Replace = <option name="show-jackpot-boss-zone" value="y" />
+
+Search = <option name="showtype-public-zone" value="0" />
+Replace = <option name="showtype-public-zone" value="2" />
+Search = <option name="showtype-party-6-dungeon-and-cave" value="1" />
+Replace = <option name="showtype-party-6-dungeon-and-cave" value="2" />
+Search = <option name="showtype-field-zone" value="0" />
+Replace = <option name="showtype-field-zone" value="2" />
+Search = <option name="showtype-classic-field-zone" value="0" />
+Replace = <option name="showtype-classic-field-zone" value="2" />
+Search = <option name="showtype-faction-battle-field-zone" value="0" />
+Replace = <option name="showtype-faction-battle-field-zone" value="2" />
+Search = <option name="showtype-jackpot-boss-zone" value="0" />
+Replace = <option name="showtype-jackpot-boss-zone" value="2" />
+
+Search = <option name="dungeon-party-search-rewrite-recycletime" value="60.0" />
+Replace = <option name="dungeon-party-search-rewrite-recycletime" value="0.0" />
+
+Search = <option name="game-finish-auto-leave-second" value="25" />
+Replace = <option name="game-finish-auto-leave-second" value="60" />
+
+Search = <option name="pending-time" value="0.300000" />
+Replace = <option name="pending-time" value="0.000000" />
+Search = <option name="pending-key-tick-time" value="0.25" />
+Replace = <option name="pending-key-tick-time" value="0.075" />
+Search = <option name="pressed-key-tick-time" value="0.25" />
+Replace = <option name="pressed-key-tick-time" value="0.075" />
+Search = <option name="ignore-mouse-press-time" value="1.000000" />
+Replace = <option name="ignore-mouse-press-time" value="0.075" />
+Search = <option name="charge-key-tick-time" value="0.25" />
+Replace = <option name="charge-key-tick-time" value="0.075" />
+
+Search = <option name="self-restraint-gauge-time" value="2.000000" />
+Replace = <option name="self-restraint-gauge-time" value="0.000000" />
+
+Search = <option name="retry-button-cool-time" value="5.0" />
+Replace = <option name="retry-button-cool-time" value="0.0" />
+
+Search = <option name="item-transform-progressing-particle-duration" value="3.0" />
+Replace = <option name="item-transform-progressing-particle-duration" value="0.0" />
+
+Search = <option name="breaker-warning-countdown-start-time" value="30.0" />
+Replace = <option name="breaker-warning-countdown-start-time" value="1200.0" />
+
+Search = <option name="show-duration" value="2.0" />
+Replace = <option name="show-duration" value="600.0" />
+
+Description = Disable Loading Tips / Disable Rez Animation / Enable Chat Spam / DPS Meter / Instant F8 Recruitment / Increase timer from 6v6 to Lobby and party invites / Input Mod / Instant Box Opening / Instant Retry F12 / Instant Transmutation / Permanent Enrage Timer / Show Latency for 10min

@@ -1,0 +1,21 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_soulfighter.xml
+
+Search = <result context-2="35154" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- old-awk-dragonfury-5th -->
+
+Search = <result context-2="35153" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- old-awk-dragonfury-4th -->
+
+Search = <result context-2="35152" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- old-awk-dragonfury-3rd -->
+
+Search = <result context-2="30074" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- old-dragonfury-5th -->
+
+Search = <result context-2="30073" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- old-dragonfury-4th -->
+
+Search = <result context-2="30072" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- old-dragonfury-3rd -->
+
+Description = Removes Dragonfury's 3rd/4th/5th hits by Gallatea

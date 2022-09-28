@@ -1,0 +1,18 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster_contextsimplemode.xml
+
+Search = <result context-2="103210" control-mode="bns" />
+Replace = <!-- <result context-2="103210" control-mode="bns" /> -->
+
+Search = <result context-2="103253" control-mode="bns" />
+Replace = <!-- <result context-2="103253" control-mode="bns" /> -->
+Search = <result context-2="103252" control-mode="bns" />
+Replace = <!-- <result context-2="103252" control-mode="bns" /> -->
+Search = <result context-2="103251" control-mode="bns" />
+Replace = <!-- <result context-2="103251" control-mode="bns" /> -->
+Search = <result context-2="103250" control-mode="bns" />
+Replace = <!-- <result context-2="103250" control-mode="bns" /> -->
+
+Search = <result context-2="103490" control-mode="bns" />
+Replace = <result context-2="103490" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="103210" /> <result context-2="103210" control-mode="classic" /> <result context-2="103210" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="103310" /> <result context-2="103310" control-mode="classic" /> <result context-2="103310" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="103253" /> <result context-2="103253" control-mode="classic" /> <result context-2="103253" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="103252" /> <result context-2="103252" control-mode="classic" /> <result context-2="103252" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="103251" /> <result context-2="103251" control-mode="classic" /> <result context-2="103251" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="103250" /> <result context-2="103250" control-mode="classic" /> <result context-2="103250" control-mode="bns" />
+
+Description = Falling Star Priority + F/LMB on RMB - Simple Mode

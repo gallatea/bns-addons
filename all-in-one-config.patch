@@ -1,0 +1,20 @@
+FileName = config[bit].dat.files\\system.config2.xml
+
+Search = <option name="show-clause" value="true" />
+Replace = <option name="show-clause" value="false" />
+
+Search = <option name="use-context-simple-mode-player-character-level" value="50" />
+Replace = <option name="use-context-simple-mode-player-character-level" value="1" />
+
+Search = <option name="use-tendency-field" value="false" />
+Replace = <option name="use-tendency-field" value="true" />
+
+Search = <option name="use-time-client-locale" value="false" />
+Replace = <option name="use-time-client-locale" value="true" />
+Search = <option name="use-clock-ui" value="false" />
+Replace = <option name="use-clock-ui" value="true" />
+
+Search = <option name="use-phantom-sword2" value="true" />
+Replace = <option name="use-phantom-sword2" value="false" />
+
+Description = Disable EULA / Simple Mode at Lv1 / Fix Basin / Fix Clock

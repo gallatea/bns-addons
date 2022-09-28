@@ -1,0 +1,6 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster.xml
+
+Search = <result control-mode="bns" skillbar-1="20130" skillbar-3="20135" skillbar-4="20312" skillbar-ui-effect="key-change" />
+Replace = <result control-mode="bns" skillbar-1="20130" skillbar-3="20135" skillbar-ui-effect="key-change" />
+
+Description = Remove Perseverance

@@ -1,0 +1,24 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster.xml
+
+Search = <condition skill="20215" />
+Replace = <condition skill="20003" /> <result control-mode="classic" skillbar-8="20003" /> <result control-mode="bns" skillbar-8="20003" /> </decision> </layer> <layer> <decision> <condition skill="20215" />
+
+Search = <result context-ui-effect="event" control-mode="bns" skillbar-8="20212" />
+Replace = <result context-ui-effect="event" control-mode="bns" special-1="20212" />
+
+Search = <result context-ui-effect="event" control-mode="bns" skillbar-8="20213" />
+Replace = <result context-ui-effect="event" control-mode="bns" special-1="20213" />
+
+Search = <result context-ui-effect="event" control-mode="bns" skillbar-8="20214" />
+Replace = <result context-ui-effect="event" control-mode="bns" special-1="20214" />
+
+Search = <result context-ui-effect="event" control-mode="bns" skillbar-8="20215" />
+Replace = <result context-ui-effect="event" control-mode="bns" special-1="20215" />
+
+Search = <result context-ui-effect="event" control-mode="bns" skillbar-8="20216" />
+Replace = <result context-ui-effect="event" control-mode="bns" special-1="20216" />
+
+Search = <result cmd-key-double-left="65011" cmd-key-double-right="65012" cmd-key-down="20219" cmd-key-left="20227" cmd-key-right="20226" context-1="20200" control-mode="bns" skillbar-1="20105" skillbar-2="20230" skillbar-3="20108" skillbar-4="20208" skillbar-5="20515" skillbar-6="501" skillbar-7="20516" skillbar-8="20213" stance="20138" />
+Replace = <result cmd-key-double-left="65011" cmd-key-double-right="65012" cmd-key-down="20219" cmd-key-left="20227" cmd-key-right="20226" context-1="20200" control-mode="bns" skillbar-1="20105" skillbar-2="20230" skillbar-3="20108" skillbar-4="20208" skillbar-5="20515" skillbar-6="501" skillbar-7="20516" skillbar-8="20003" stance="20138" />
+
+Description = Blade Call on Draw Stance, Flash Step on X

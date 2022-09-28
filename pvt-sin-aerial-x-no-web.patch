@@ -1,0 +1,12 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_assassin.xml
+
+Search = <result control-mode="bns" stance="25010" stance-ui-effect="key-change" />
+Replace = <!-- no-webbing -->
+
+Search = <result context-ui-effect="key-change" control-mode="bns" stance="25031" />
+Replace = <result context-ui-effect="key-change" control-mode="bns" skillbar-6="25031" />
+
+Search = <result control-mode="bns" stance="25031" stance-ui-effect="key-change" />
+Replace = <result control-mode="bns" skillbar-6="25031" stance-ui-effect="key-change" />
+
+Description = No Webbing, Aerial on X by Gallatea

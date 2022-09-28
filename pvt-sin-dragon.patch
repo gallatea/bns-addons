@@ -1,0 +1,21 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_assassin.xml
+
+Search = <result context-2="25266" context-ui-effect="key-change" control-mode="bns" />
+Replace = <result context-2="25266" context-ui-effect="key-change" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="25370" /> <result context-2="25370" context-ui-effect="key-change" control-mode="classic" /> <result context-2="25370" context-ui-effect="key-change" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="25434" /> <result context-2="25434" context-ui-effect="key-change" control-mode="classic" /> <result context-2="25434" context-ui-effect="key-change" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="25334" /> <result context-2="25334" context-ui-effect="key-change" control-mode="classic" /> <result context-2="25334" context-ui-effect="key-change" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="25034" /> <result context-2="25034" context-ui-effect="key-change" control-mode="classic" /> <result context-2="25034" context-ui-effect="key-change" control-mode="bns" />
+
+Search = <result context-2="25366" context-ui-effect="key-change" control-mode="bns" />
+Replace = <result context-2="25366" context-ui-effect="key-change" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="25371" /> <result context-2="25371" context-ui-effect="key-change" control-mode="classic" /> <result context-2="25371" context-ui-effect="key-change" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="25050" /> <result context-2="25050" context-ui-effect="key-change" control-mode="classic" /> <result context-2="25050" context-ui-effect="key-change" control-mode="bns" />
+
+Search = <result context-3="25034" context-ui-effect="key-change" control-mode="bns" />
+Replace = <!-- 25034 -->
+
+Search = <result context-3="25334" context-ui-effect="key-change" control-mode="bns" />
+Replace = <!-- 25334 -->
+
+Search = <result context-3="25434" context-ui-effect="key-change" control-mode="bns" />
+Replace = <!-- 25434 -->
+
+Search = <result context-3="25050" context-ui-effect="key-change" control-mode="bns" />
+Replace = <!-- 25050 Lightning Crash -->
+
+Description = Sin Dragon Bracelet Priority / Lightning Crash on RMB by Gallatea

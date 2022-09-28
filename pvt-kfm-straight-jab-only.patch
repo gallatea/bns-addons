@@ -1,0 +1,27 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_kungfufighter.xml
+
+Search = <result context-1="21503" context-ui-effect="combo" control-mode="bns" />
+Replace = <!-- 21503 -->
+
+Search = <result context-1="21001" context-ui-effect="combo" control-mode="bns" />
+Replace = <!-- 21001 -->
+
+Search = <result context-1="21502" context-ui-effect="combo" control-mode="bns" />
+Replace = <!-- 21502 -->
+
+Search = <result context-1="21002" context-ui-effect="combo" control-mode="bns" />
+Replace = <!-- 21002 -->
+
+Search = <result context-1="21301" context-ui-effect="combo" control-mode="bns" />
+Replace = <!-- 21301 -->
+
+Search = <result context-1="21302" context-ui-effect="combo" control-mode="bns" />
+Replace = <!-- 21302 -->
+
+Search = <result context-1="21401" context-ui-effect="combo" control-mode="bns" />
+Replace = <!-- 21401 -->
+
+Search = <result context-1="21402" context-ui-effect="combo" control-mode="bns" />
+Replace = <!-- 21402 -->
+
+Description = Straight Jab Only by Gallatea

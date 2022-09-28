@@ -1,0 +1,12 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_soulfighter.xml
+
+Search = <result context-3="30030" context-ui-effect="event" control-mode="bns" />
+Replace = <result context-2="30030" context-ui-effect="event" control-mode="bns" />
+
+Search = <result context-3="30040" context-ui-effect="event" control-mode="bns" />
+Replace = <result context-2="30040" context-ui-effect="event" control-mode="bns" />
+
+Search = <stance stance="유권" status="stance">
+Replace = <stance stance="유권" status="stance"> <layer> <decision> <condition skill="30115" /> <result control-mode="classic" context-2="30115" skillbar-ui-effect="event" /> <result control-mode="bns" context-2="30115" skillbar-ui-effect="event" /> </decision> <decision> <condition skill="30114" /> <result control-mode="classic" context-2="30114" skillbar-ui-effect="event" /> <result control-mode="bns" context-2="30114" skillbar-ui-effect="event" /> </decision> <decision> <condition skill="30113" /> <result control-mode="classic" context-2="30113" skillbar-ui-effect="event" /> <result control-mode="bns" context-2="30113" skillbar-ui-effect="event" /> </decision> <decision> <condition skill="30112" /> <result control-mode="classic" context-2="30112" skillbar-ui-effect="event" /> <result control-mode="bns" context-2="30112" skillbar-ui-effect="event" /> </decision> <decision> <condition skill="30111" /> <result control-mode="classic" context-2="30111" skillbar-ui-effect="event" /> <result control-mode="bns" context-2="30111" skillbar-ui-effect="event" /> </decision> <decision> <condition skill="30110" /> <result context-2="30110" control-mode="classic" /> <result context-2="30110" control-mode="bns" /> </decision> </layer>
+
+Description = Breaking Claw, Iron Shoulder, Kingfist and Frost Storm to RMB
